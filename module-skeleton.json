@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-attribution-and-analytics-react-inertia",
+  "capabilityKey": "planned:ecommerce:attribution-and-analytics",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-attribution-and-analytics-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/attribution-and-analytics.md",
+  "presentationPlan": "projects/ecommerce/react/attribution-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
